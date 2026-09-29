@@ -1,6 +1,6 @@
 # AI Pi Agent
 
-Remote AI agent running on Raspberry Pi.
+Remote AI agent project running on Raspberry Pi.
 
 ## Goals
 
